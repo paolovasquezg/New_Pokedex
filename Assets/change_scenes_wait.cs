@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneManagerScript_wait : MonoBehaviour
 {
-    public float delay = 3.0f; // Time to wait before loading the scene
+    public float delay = 6.0f; // Time to wait before loading the scene
 
     public void LoadScene(string sceneName)
     {
